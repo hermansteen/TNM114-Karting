@@ -1,0 +1,47 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 499988,
+                "file_path": "results/custom-track-3/ArcadeDriver/ArcadeDriver-499988.onnx",
+                "reward": 341.90016198158264,
+                "creation_time": 1696242286.4906418,
+                "auxillary_file_paths": [
+                    "results/custom-track-3/ArcadeDriver/ArcadeDriver-499988.pt"
+                ]
+            },
+            {
+                "steps": 999998,
+                "file_path": "results/custom-track-3/ArcadeDriver/ArcadeDriver-999998.onnx",
+                "reward": 344.4107726414998,
+                "creation_time": 1696243045.731192,
+                "auxillary_file_paths": [
+                    "results/custom-track-3/ArcadeDriver/ArcadeDriver-999998.pt"
+                ]
+            },
+            {
+                "steps": 1000062,
+                "file_path": "results/custom-track-3/ArcadeDriver/ArcadeDriver-1000062.onnx",
+                "reward": 344.4107726414998,
+                "creation_time": 1696243045.775747,
+                "auxillary_file_paths": [
+                    "results/custom-track-3/ArcadeDriver/ArcadeDriver-1000062.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000062,
+            "file_path": "results/custom-track-3/ArcadeDriver.onnx",
+            "reward": 344.4107726414998,
+            "creation_time": 1696243045.775747,
+            "auxillary_file_paths": [
+                "results/custom-track-3/ArcadeDriver/ArcadeDriver-1000062.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

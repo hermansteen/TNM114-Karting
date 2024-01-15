@@ -1,0 +1,47 @@
+{
+    "ArcadeDriver": {
+        "checkpoints": [
+            {
+                "steps": 499988,
+                "file_path": "results/windingtraining_5agents/ArcadeDriver/ArcadeDriver-499988.onnx",
+                "reward": 383.39814172472273,
+                "creation_time": 1696332737.801727,
+                "auxillary_file_paths": [
+                    "results/windingtraining_5agents/ArcadeDriver/ArcadeDriver-499988.pt"
+                ]
+            },
+            {
+                "steps": 999949,
+                "file_path": "results/windingtraining_5agents/ArcadeDriver/ArcadeDriver-999949.onnx",
+                "reward": 388.1891689300537,
+                "creation_time": 1696333493.5403252,
+                "auxillary_file_paths": [
+                    "results/windingtraining_5agents/ArcadeDriver/ArcadeDriver-999949.pt"
+                ]
+            },
+            {
+                "steps": 1000013,
+                "file_path": "results/windingtraining_5agents/ArcadeDriver/ArcadeDriver-1000013.onnx",
+                "reward": 388.1891689300537,
+                "creation_time": 1696333493.580968,
+                "auxillary_file_paths": [
+                    "results/windingtraining_5agents/ArcadeDriver/ArcadeDriver-1000013.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000013,
+            "file_path": "results/windingtraining_5agents/ArcadeDriver.onnx",
+            "reward": 388.1891689300537,
+            "creation_time": 1696333493.580968,
+            "auxillary_file_paths": [
+                "results/windingtraining_5agents/ArcadeDriver/ArcadeDriver-1000013.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}
